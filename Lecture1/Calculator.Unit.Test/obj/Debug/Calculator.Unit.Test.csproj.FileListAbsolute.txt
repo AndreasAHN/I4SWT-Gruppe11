@@ -1,0 +1,26 @@
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Hand-testing class Calculator\Calculator.Unit.Test\bin\Debug\Calculator.Unit.Test.dll
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Hand-testing class Calculator\Calculator.Unit.Test\bin\Debug\Calculator.Unit.Test.pdb
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Hand-testing class Calculator\Calculator.Unit.Test\bin\Debug\Hand-testing class Calculator.exe
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Hand-testing class Calculator\Calculator.Unit.Test\bin\Debug\nunit.framework.dll
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Hand-testing class Calculator\Calculator.Unit.Test\bin\Debug\Hand-testing class Calculator.pdb
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Hand-testing class Calculator\Calculator.Unit.Test\bin\Debug\Hand-testing class Calculator.exe.config
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Hand-testing class Calculator\Calculator.Unit.Test\bin\Debug\nunit.framework.pdb
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Hand-testing class Calculator\Calculator.Unit.Test\bin\Debug\nunit.framework.xml
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Hand-testing class Calculator\Calculator.Unit.Test\obj\Debug\Calculator.Unit.Test.csprojAssemblyReference.cache
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Hand-testing class Calculator\Calculator.Unit.Test\obj\Debug\Calculator.Unit.Test.csproj.CoreCompileInputs.cache
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Hand-testing class Calculator\Calculator.Unit.Test\obj\Debug\Calculator.Unit.Test.csproj.CopyComplete
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Hand-testing class Calculator\Calculator.Unit.Test\obj\Debug\Calculator.Unit.Test.dll
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Hand-testing class Calculator\Calculator.Unit.Test\obj\Debug\Calculator.Unit.Test.pdb
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Git basics with the Calculator\Calculator.Unit.Test\bin\Debug\Calculator.Unit.Test.dll
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Git basics with the Calculator\Calculator.Unit.Test\bin\Debug\Calculator.Unit.Test.pdb
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Git basics with the Calculator\Calculator.Unit.Test\bin\Debug\Hand-testing class Calculator.exe
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Git basics with the Calculator\Calculator.Unit.Test\bin\Debug\nunit.framework.dll
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Git basics with the Calculator\Calculator.Unit.Test\bin\Debug\Hand-testing class Calculator.pdb
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Git basics with the Calculator\Calculator.Unit.Test\bin\Debug\Hand-testing class Calculator.exe.config
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Git basics with the Calculator\Calculator.Unit.Test\bin\Debug\nunit.framework.pdb
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Git basics with the Calculator\Calculator.Unit.Test\bin\Debug\nunit.framework.xml
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Git basics with the Calculator\Calculator.Unit.Test\obj\Debug\Calculator.Unit.Test.csprojAssemblyReference.cache
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Git basics with the Calculator\Calculator.Unit.Test\obj\Debug\Calculator.Unit.Test.csproj.CoreCompileInputs.cache
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Git basics with the Calculator\Calculator.Unit.Test\obj\Debug\Calculator.Unit.Test.csproj.CopyComplete
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Git basics with the Calculator\Calculator.Unit.Test\obj\Debug\Calculator.Unit.Test.dll
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Git basics with the Calculator\Calculator.Unit.Test\obj\Debug\Calculator.Unit.Test.pdb

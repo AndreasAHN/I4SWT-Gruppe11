@@ -1,0 +1,14 @@
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Hand-testing class Calculator\Hand-testing class Calculator\bin\Debug\Hand-testing class Calculator.exe.config
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Hand-testing class Calculator\Hand-testing class Calculator\bin\Debug\Hand-testing class Calculator.exe
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Hand-testing class Calculator\Hand-testing class Calculator\bin\Debug\Hand-testing class Calculator.pdb
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Hand-testing class Calculator\Hand-testing class Calculator\obj\Debug\Hand-testing class Calculator.csprojAssemblyReference.cache
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Hand-testing class Calculator\Hand-testing class Calculator\obj\Debug\Hand-testing class Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Hand-testing class Calculator\Hand-testing class Calculator\obj\Debug\Hand-testing class Calculator.exe
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Hand-testing class Calculator\Hand-testing class Calculator\obj\Debug\Hand-testing class Calculator.pdb
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Git basics with the Calculator\Hand-testing class Calculator\bin\Debug\Hand-testing class Calculator.exe.config
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Git basics with the Calculator\Hand-testing class Calculator\bin\Debug\Hand-testing class Calculator.exe
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Git basics with the Calculator\Hand-testing class Calculator\bin\Debug\Hand-testing class Calculator.pdb
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Git basics with the Calculator\Hand-testing class Calculator\obj\Debug\Hand-testing class Calculator.csprojAssemblyReference.cache
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Git basics with the Calculator\Hand-testing class Calculator\obj\Debug\Hand-testing class Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Git basics with the Calculator\Hand-testing class Calculator\obj\Debug\Hand-testing class Calculator.exe
+C:\Users\ronni\OneDrive - Aarhus universitet\4. Semester\SWT\Exercises\1\Git basics with the Calculator\Hand-testing class Calculator\obj\Debug\Hand-testing class Calculator.pdb
