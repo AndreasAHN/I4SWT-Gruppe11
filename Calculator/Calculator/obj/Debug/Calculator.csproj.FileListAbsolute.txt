@@ -1,0 +1,10 @@
+C:\Users\andre\Dropbox\SWT\Lecture1\Calculator\Calculator\bin\Debug\Calculator.dll
+C:\Users\andre\Dropbox\SWT\Lecture1\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\andre\Dropbox\SWT\Lecture1\Calculator\Calculator\bin\Debug\nunit.framework.dll
+C:\Users\andre\Dropbox\SWT\Lecture1\Calculator\Calculator\bin\Debug\nunit.framework.pdb
+C:\Users\andre\Dropbox\SWT\Lecture1\Calculator\Calculator\bin\Debug\nunit.framework.xml
+C:\Users\andre\Dropbox\SWT\Lecture1\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\andre\Dropbox\SWT\Lecture1\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\andre\Dropbox\SWT\Lecture1\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\andre\Dropbox\SWT\Lecture1\Calculator\Calculator\obj\Debug\Calculator.dll
+C:\Users\andre\Dropbox\SWT\Lecture1\Calculator\Calculator\obj\Debug\Calculator.pdb
