@@ -15,7 +15,7 @@ namespace Calculator.Test.Unit
         {
             var uut = new Calculator();
 
-            Assert.That(uut.Add(12, 55), Is.EqualTo(72));
+            Assert.That(uut.Add(12, 55), Is.EqualTo(67));
         }
 
         [Test]
