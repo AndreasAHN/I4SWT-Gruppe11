@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\AndreasAHN\I4SWT-Gruppe11\Calculator\CalculatorTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\andre\source\repos\AndreasAHN\I4SWT-Gruppe11\Calculator\CalculatorTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\andre\source\repos\AndreasAHN\I4SWT-Gruppe11\Calculator\CalculatorTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\andre\source\repos\AndreasAHN\I4SWT-Gruppe11\Calculator\CalculatorTest\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\andre\source\repos\AndreasAHN\I4SWT-Gruppe11\Calculator\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.deps.json
+C:\Users\andre\source\repos\AndreasAHN\I4SWT-Gruppe11\Calculator\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.runtimeconfig.json
+C:\Users\andre\source\repos\AndreasAHN\I4SWT-Gruppe11\Calculator\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.runtimeconfig.dev.json
+C:\Users\andre\source\repos\AndreasAHN\I4SWT-Gruppe11\Calculator\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.dll
+C:\Users\andre\source\repos\AndreasAHN\I4SWT-Gruppe11\Calculator\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.pdb
+C:\Users\andre\source\repos\AndreasAHN\I4SWT-Gruppe11\Calculator\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\AndreasAHN\I4SWT-Gruppe11\Calculator\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\AndreasAHN\I4SWT-Gruppe11\Calculator\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\AndreasAHN\I4SWT-Gruppe11\Calculator\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.AssemblyInfo.cs
+C:\Users\andre\source\repos\AndreasAHN\I4SWT-Gruppe11\Calculator\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.dll
+C:\Users\andre\source\repos\AndreasAHN\I4SWT-Gruppe11\Calculator\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.pdb
