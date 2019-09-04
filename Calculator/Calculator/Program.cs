@@ -5,6 +5,8 @@ namespace Calculator
 {
     class Program
     {
+        Accumulator Output = new Accumulator();
+
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to calculator, write the first number...");
@@ -20,29 +22,53 @@ namespace Calculator
             switch (chosenFunc)
             {
                 case "+":
-                    Console.WriteLine("Answer: {0}",(uut.add(numberA,numberB)));
+                    Output.CalculatorOutput = uut.add(numberA, numberB);
                     break;
                 case "-":
-                    Console.WriteLine("Answer: {0}", (uut.subtract(numberA, numberB)));
+                    Output.CalculatorOutput = uut.subtract(numberA, numberB);
                     break;
                 case "*":
-                    Console.WriteLine("Answer: {0}", (uut.multiple(numberA, numberB)));
+                    Output.CalculatorOutput = uut.multiple(numberA, numberB);
                     break;
                 case "/":
-                    Console.WriteLine("Answer: {0}", (uut.divide(numberA, numberB)));
+                    Output.CalculatorOutput = uut.divide(numberA, numberB);
                     break;
                 case "exp":
-                    Console.WriteLine("Answer: {0}", (uut.power(numberA, numberB)));
+                    Output.CalculatorOutput = uut.power(numberA, numberB);
                     break;
                 default:
                     Console.WriteLine("You wrote something wrong");
                     break;
             }
+
+            Console.WriteLine("Answer: {0}", Output.CalculatorOutput);
+        }
+
+        class Accumulator
+        {
+            public double accumulator;
+
+            public Accumulator()
+            {
+                accumulator = 0;
+            }
+
+            public override double CalculatorOutput
+            {
+                get
+                {
+                    return accumulator;
+                }
+                set
+                {
+                    accumulator = value;
+                }
+            }
         }
 
         public void clear()
         {
-
+            Output.CalculatorOutput = 0;
         }
     }
 }
