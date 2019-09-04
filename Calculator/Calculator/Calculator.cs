@@ -8,32 +8,29 @@ namespace Calculator
 {
     public class Calculator
     {
-        public double Add(double a, double b)
+        public double add(double a, double b)
         {
-            double result = a + b;
-            return result;
+            return a + b;
         }
 
         public double subtract(double a, double b)
         {
-            double result = a - b;
-            return result;
+            return a - b;
         }
 
         public double multiple(double a, double b)
         {
-            double result = a * b;
-            return result;
+            return a * b; 
         }
 
-        public double Power(double x, double exp)
+        public double divide(double a, double b)
         {
-            double result = 0;
-            //for (int i = 0; i < x; i++)
-            //{
+            return a / b;
+        }
 
-            //}
-            return result;
+        public double power(double a, double b)
+        {
+            return Math.Pow(a, b);
         }
     }
 }
