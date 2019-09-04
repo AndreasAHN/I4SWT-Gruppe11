@@ -39,5 +39,10 @@ namespace Calculator
                     break;
             }
         }
+
+        public void clear()
+        {
+
+        }
     }
 }
