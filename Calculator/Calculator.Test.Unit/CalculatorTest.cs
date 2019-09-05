@@ -48,10 +48,8 @@ namespace Calculator.Test.Unit
         public void divide_ByZero()
         {
             var uut = new Calculator();
-            //Assert.That(uut.divide(12, 0), Is.EqualTo(0));
-           // Assert.Throws<DivideByZeroException>(() => uut.divide(5, 0));
-           // Assert.Throws<Exception>(() => uut.divide(5, 0));
-           Assert.That(() => uut.divide( 5, 0), Throws.Exception);
+
+            Assert.That(() => uut.divide( 5, 0), Throws.Exception);
         }
 
         [Test]
