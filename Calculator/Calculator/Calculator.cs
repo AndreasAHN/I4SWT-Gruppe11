@@ -81,11 +81,9 @@ namespace Calculator
 
         public double Power(double exponent)
         {
-            Accumulator += Math.Pow(Accumulator, exponent);
+            Accumulator = Math.Pow(Accumulator, exponent);
             return Accumulator;
         }
-
-
     }
 
 
