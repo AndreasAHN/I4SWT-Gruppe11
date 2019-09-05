@@ -32,6 +32,7 @@ namespace Calculator
                     break;
                 case "/":
                     Output.CalculatorOutput = uut.divide(numberA, numberB);
+
                     break;
                 case "exp":
                     Output.CalculatorOutput = uut.power(numberA, numberB);
@@ -52,7 +53,7 @@ namespace Calculator
 
     class Accumulator
     {
-        public double accumulator;
+        private double accumulator;
 
         public Accumulator()
         {
@@ -65,7 +66,7 @@ namespace Calculator
             {
                 return accumulator;
             }
-            set
+            private set
             {
                 accumulator = value;
             }
