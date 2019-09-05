@@ -44,31 +44,31 @@ namespace Calculator
             Console.WriteLine("Answer: {0}", Output.CalculatorOutput);
         }
 
-        class Accumulator
-        {
-            public double accumulator;
-
-            public Accumulator()
-            {
-                accumulator = 0;
-            }
-
-            public override double CalculatorOutput
-            {
-                get
-                {
-                    return accumulator;
-                }
-                set
-                {
-                    accumulator = value;
-                }
-            }
-        }
-
         public void clear()
         {
             Output.CalculatorOutput = 0;
+        }
+    }
+
+    class Accumulator
+    {
+        public double accumulator;
+
+        public Accumulator()
+        {
+            accumulator = 0;
+        }
+
+        public override double CalculatorOutput
+        {
+            get
+            {
+                return accumulator;
+            }
+            set
+            {
+                accumulator = value;
+            }
         }
     }
 }
