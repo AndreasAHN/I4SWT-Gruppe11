@@ -13,19 +13,19 @@ namespace Calculator
 
         public double Add(double a, double b)
         {
-            Accumulator += (a + b);
+            Accumulator = (a + b);
             return Accumulator;
         }
 
         public double Subtract(double a, double b)
         {
-            Accumulator += (a - b);
+            Accumulator = (a - b);
             return Accumulator;
         }
 
         public double Multiply(double a, double b)
         {
-            Accumulator += (a * b);
+            Accumulator = (a * b);
             return Accumulator; 
         }
 
@@ -37,14 +37,14 @@ namespace Calculator
             }
             else
             {
-                Accumulator += (a / b);
+                Accumulator = (a / b);
                 return Accumulator;
             }
         }
 
         public double Power(double a, double b)
         {
-            Accumulator += Math.Pow(a, b);
+            Accumulator = Math.Pow(a, b);
             return Accumulator;
         }
 
