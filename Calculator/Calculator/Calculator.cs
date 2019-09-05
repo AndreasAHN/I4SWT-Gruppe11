@@ -9,22 +9,24 @@ namespace Calculator
 {
     public class Calculator
     {
-        public double add(double a, double b)
+        public double Accumulator { get; private set; } = 0;
+
+        public double Add(double a, double b)
         {
             return a + b;
         }
 
-        public double subtract(double a, double b)
+        public double Subtract(double a, double b)
         {
             return a - b;
         }
 
-        public double multiple(double a, double b)
+        public double Multiply(double a, double b)
         {
             return a * b; 
         }
 
-        public double divide(double a, double b)
+        public double Divide(double a, double b)
         {
             if (b == 0)
             {
@@ -36,9 +38,40 @@ namespace Calculator
             }
         }
 
-        public double power(double a, double b)
+        public double Power(double a, double b)
         {
             return Math.Pow(a, b);
         }
+
+        // Overloaded functions
+        public double Add(double addend)
+        {
+            return Accumulator + addend;
+        }
+
+        public double Subtract(double subtractor)
+        {
+            return Accumulator - subtractor;
+        }
+
+        public double Multiply(double multiplier)
+        {
+            return Accumulator * multiplier;
+        }
+
+        public double Divide(double divisor)
+        {
+            if (divisor == 0) throw new Exception();
+            return Accumulator / divisor;
+        }
+
+        public double Power(double exponent)
+        {
+            return Math.Pow(Accumulator, exponent);
+        }
+
+
     }
+
+
 }
