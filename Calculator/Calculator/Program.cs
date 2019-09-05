@@ -3,75 +3,57 @@
 
 namespace Calculator
 {
-    class Program //Dav dav 
+    class Program
     {
-        //Accumulator Output = new Accumulator();
-
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to calculator, write the first number...");
-            int numberA = Int32.Parse(Console.ReadLine());
-            Console.WriteLine("You wrote: {0}, type + or - or * or / or exp", numberA);
-            string chosenFunc = Console.ReadLine();
-            Console.WriteLine("You chose: {0}, write the second number", chosenFunc);
-            int numberB = Int32.Parse(Console.ReadLine());
-            Console.WriteLine("You wrote: {0}, calculating...", numberB);
+            Console.Write("Welcome to calculator,");
 
             var uut = new Calculator();
-            /*
-            switch (chosenFunc)
+            bool end = true;
+
+            while (end)
             {
-                case "+":
-                    Output.CalculatorOutput = uut.add(numberA, numberB);
-                    break;
-                case "-":
-                    Output.CalculatorOutput = uut.subtract(numberA, numberB);
-                    break;
-                case "*":
-                    Output.CalculatorOutput = uut.multiple(numberA, numberB);
-                    break;
-                case "/":
-                    Output.CalculatorOutput = uut.divide(numberA, numberB);
+                Console.WriteLine("write the first number...");
+                int numberA = Int32.Parse(Console.ReadLine());
+                Console.WriteLine("You wrote: {0}, type + or - or * or / or exp or clear or end", numberA);
+                string chosenFunc = Console.ReadLine();
+                Console.WriteLine("You chose: {0}, write the second number", chosenFunc);
+                int numberB = Int32.Parse(Console.ReadLine());
+                Console.WriteLine("You wrote: {0}, calculating...", numberB);
 
-                    break;
-                case "exp":
-                    Output.CalculatorOutput = uut.power(numberA, numberB);
-                    break;
-                default:
-                    Console.WriteLine("You wrote something wrong");
-                    break;
+                switch (chosenFunc)
+                {
+                    case "+":
+                        uut.Add(numberA, numberB);
+                        break;
+                    case "-":
+                        uut.Subtract(numberA, numberB);
+                        break;
+                    case "*":
+                        uut.Multiply(numberA, numberB);
+                        break;
+                    case "/":
+                        uut.Divide(numberA, numberB);
+                        break;
+                    case "exp":
+                        uut.Power(numberA, numberB);
+                        break;
+                    case "clear":
+                        uut.Clear();
+                        break;
+                    case "end":
+                        end = false;
+                        break;
+                    default:
+                        Console.WriteLine("You wrote something wrong");
+                        break;
+                }
+
+                Console.WriteLine("Answer: {0}", uut.Accumulator);
             }
-            */
 
-            //Console.WriteLine("Answer: {0}", Output.CalculatorOutput);
-        }
-
-        //public void clear()
-        //{
-        //    Output.CalculatorOutput = 0;
-        //}
-    }
-    /*
-    class Accumulator
-    {
-        private double accumulator;
-
-        public Accumulator()
-        {
-            accumulator = 0;
-        }
-
-        public override double CalculatorOutput
-        {
-            get
-            {
-                return accumulator;
-            }
-            private set
-            {
-                accumulator = value;
-            }
+            Console.WriteLine("Ending calculator");
         }
     }
-    */
 }

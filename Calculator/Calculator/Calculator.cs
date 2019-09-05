@@ -13,17 +13,20 @@ namespace Calculator
 
         public double Add(double a, double b)
         {
-            return a + b;
+            Accumulator += (a + b);
+            return Accumulator;
         }
 
         public double Subtract(double a, double b)
         {
-            return a - b;
+            Accumulator += (a - b);
+            return Accumulator;
         }
 
         public double Multiply(double a, double b)
         {
-            return a * b; 
+            Accumulator += (a * b);
+            return Accumulator; 
         }
 
         public double Divide(double a, double b)
@@ -34,40 +37,52 @@ namespace Calculator
             }
             else
             {
-                return a / b;
+                Accumulator += (a / b);
+                return Accumulator;
             }
         }
 
         public double Power(double a, double b)
         {
-            return Math.Pow(a, b);
+            Accumulator += Math.Pow(a, b);
+            return Accumulator;
+        }
+
+        public void Clear()
+        {
+            Accumulator = 0;
         }
 
         // Overloaded functions
         public double Add(double addend)
         {
-            return Accumulator + addend;
+            Accumulator += addend;
+            return Accumulator;
         }
 
         public double Subtract(double subtractor)
         {
-            return Accumulator - subtractor;
+            Accumulator -= subtractor;
+            return Accumulator;
         }
 
         public double Multiply(double multiplier)
         {
-            return Accumulator * multiplier;
+            Accumulator *= multiplier;
+            return Accumulator;
         }
 
         public double Divide(double divisor)
         {
             if (divisor == 0) throw new Exception();
-            return Accumulator / divisor;
+            Accumulator /= divisor;
+            return Accumulator;
         }
 
         public double Power(double exponent)
         {
-            return Math.Pow(Accumulator, exponent);
+            Accumulator += Math.Pow(Accumulator, exponent);
+            return Accumulator;
         }
 
 
