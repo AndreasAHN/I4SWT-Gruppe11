@@ -2,10 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Calculator",
-    "\\Calculator\\Calculator.Test.Unit",
-    "\\Calculator\\CalculatorTest",
-    "\\Calculator\\Calculator_unittest"
+    "\\Calculator\\Calculator.Test.Unit"
   ],
-  "SelectedNode": "\\Calculator\\Calculator.sln.DotSettings.user",
+  "SelectedNode": "\\Calculator\\Calculator.sln",
   "PreviewInSolutionExplorer": false
 }

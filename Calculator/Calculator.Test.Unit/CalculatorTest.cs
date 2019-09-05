@@ -1,9 +1,11 @@
 ﻿using System;
+using System.CodeDom;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using NUnit.Framework;
+using Calculator;
 
 namespace Calculator.Test.Unit
 {
@@ -40,6 +42,16 @@ namespace Calculator.Test.Unit
             var uut = new Calculator();
 
             Assert.That(uut.divide(12, 4), Is.EqualTo(3));
+        }
+
+        [Test]
+        public void divide_ByZero()
+        {
+            var uut = new Calculator();
+            //Assert.That(uut.divide(12, 0), Is.EqualTo(0));
+           // Assert.Throws<DivideByZeroException>(() => uut.divide(5, 0));
+           // Assert.Throws<Exception>(() => uut.divide(5, 0));
+           Assert.That(() => uut.divide( 5, 0), Throws.Exception);
         }
 
         [Test]

@@ -5,7 +5,7 @@ namespace Calculator
 {
     class Program //Dav dav 
     {
-        Accumulator Output = new Accumulator();
+        //Accumulator Output = new Accumulator();
 
         static void Main(string[] args)
         {
@@ -18,7 +18,7 @@ namespace Calculator
             Console.WriteLine("You wrote: {0}, calculating...", numberB);
 
             var uut = new Calculator();
-
+            /*
             switch (chosenFunc)
             {
                 case "+":
@@ -41,16 +41,17 @@ namespace Calculator
                     Console.WriteLine("You wrote something wrong");
                     break;
             }
+            */
 
-            Console.WriteLine("Answer: {0}", Output.CalculatorOutput);
+            //Console.WriteLine("Answer: {0}", Output.CalculatorOutput);
         }
 
-        public void clear()
-        {
-            Output.CalculatorOutput = 0;
-        }
+        //public void clear()
+        //{
+        //    Output.CalculatorOutput = 0;
+        //}
     }
-
+    /*
     class Accumulator
     {
         private double accumulator;
@@ -72,4 +73,5 @@ namespace Calculator
             }
         }
     }
+    */
 }
